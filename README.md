@@ -1,5 +1,5 @@
-# Proyecto Final - Machine Learning
-
+# Sentiment Classification in Movie Reviews
+[Informe y documentación](informe.pdf)
 ## Lista de Estudiantes
 
 - Luis Enrique Cortijo Gonzales 100%
