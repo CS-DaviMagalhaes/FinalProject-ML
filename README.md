@@ -1,8 +1,8 @@
 # Sentiment Classification in Movie Reviews
-[Informe y documentación](informe.pdf)
+Final paper: [Informe](informe.pdf)
 ## Lista de Estudiantes
 
-- Luis Enrique Cortijo Gonzales 100%
-- Davi Magalhaes Eler 100%
-- Anderson David Cárcamo Vargas 100%
-- Edgar Chambilla 100%
+- Luis Enrique Cortijo Gonzales 
+- Davi Eler Magalhaes 
+- Anderson David Cárcamo Vargas 
+- Edgar Chambilla 
